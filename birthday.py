@@ -1,5 +1,5 @@
 import calendar
-#Calendar module allows output calendars like the program and provides additional useful functions related to the calendar.
+#Calendar module allows output calendars like the program and provides additional and useful functions related to the calendar.
 from datetime import date,timedelta
 #The datetime module supplies classes for manipulating dates and times in both simple and complex ways.
 #Timedelta object represents a duration, the difference between two dates or times.
